@@ -1,0 +1,22 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect id="disk1" x="405.0" y="500.0" width="20.0" height="30.0" fill="rgb(255.0,255.0,255.0)" visibility="visible" >
+    <animate attributeType="xml" begin="30ms" dur="2970.0ms" attributeName="x" from="404" to="300" fill="freeze" />
+    <animate attributeType="xml" begin="30ms" dur="2970.0ms" attributeName="y" from="498" to="300" fill="freeze" />
+    <animate attributeType="xml" begin="3000ms" dur="3000.0ms" attributeName="x" from="302" to="500" fill="freeze" />
+    <animate attributeType="xml" begin="3000ms" dur="3000.0ms" attributeName="y" from="302" to="500" fill="freeze" />
+    <animate attributeType="xml" begin="30ms" dur="2970.0ms" attributeName="fill" from="rgb(255,255,252)" to="rgb(255,255,0)" fill="freeze" />
+    <animate attributeType="xml" begin="3000ms" dur="3000.0ms" attributeName="fill" from="rgb(252,252,0)" to="rgb(0,0,0)" fill="freeze" />
+   <animateTransform attributeName="transform"
+                    type="rotate"
+                    from="1 414 513" to="90 310 315"
+                    begin="30ms" dur="2970ms"
+                    repeatCount="freeze"
+   />
+   <animateTransform attributeName="transform"
+                    type="rotate"
+                    from="91 312 317" to="180 510 515"
+                    begin="3000ms" dur="3000ms"
+                    repeatCount="freeze"
+   />
+</rect>
+</svg>

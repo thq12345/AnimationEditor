@@ -1,0 +1,11 @@
+SingleShape rotate:
+java -jar ExtraCredit.jar -in rotatetest1.txt -view edit -speed 50
+
+Shape rotate/move simultaneously:
+java -jar ExtraCredit.jar -in rotatetest2.txt -view edit -speed 50
+
+2 shapes, 2 different layer:(Perfect Overlap)
+java -jar ExtraCredit.jar -in layertest1.txt -view edit -speed 50
+
+3 different layer: Overlap
+java -jar ExtraCredit.jar -in 3layer.txt -view edit -speed 50

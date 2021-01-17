@@ -1,0 +1,30 @@
+<svg width="1000" height="1000" viewBox="0 0 1000 1000" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect id="disk2" x="405.0" y="500.0" width="20.0" height="30.0" fill="rgb(0.0,0.0,0.0)" visibility="visible" >
+   <animateTransform attributeName="transform"
+                    type="rotate"
+                    from="1 415 515" to="90 415 515"
+                    begin="30ms" dur="2970ms"
+                    repeatCount="freeze"
+   />
+   <animateTransform attributeName="transform"
+                    type="rotate"
+                    from="91 415 515" to="180 415 515"
+                    begin="3000ms" dur="3000ms"
+                    repeatCount="freeze"
+   />
+</rect>
+<rect id="disk1" x="405.0" y="500.0" width="20.0" height="30.0" fill="rgb(255.0,255.0,255.0)" visibility="visible" >
+   <animateTransform attributeName="transform"
+                    type="rotate"
+                    from="1 415 515" to="90 415 515"
+                    begin="30ms" dur="2970ms"
+                    repeatCount="freeze"
+   />
+   <animateTransform attributeName="transform"
+                    type="rotate"
+                    from="91 415 515" to="180 415 515"
+                    begin="3000ms" dur="3000ms"
+                    repeatCount="freeze"
+   />
+</rect>
+</svg>

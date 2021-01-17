@@ -1,0 +1,53 @@
+<svg width="410" height="220" viewBox="145 50 410 220" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect id="disk1" x="190.0" y="180.0" width="20.0" height="30.0" fill="rgb(0.0,49.0,90.0)" visibility="visible" >
+    <animate attributeType="xml" begin="750ms" dur="300.0ms" attributeName="x" from="190" to="190" fill="freeze" />
+    <animate attributeType="xml" begin="750ms" dur="300.0ms" attributeName="y" from="167" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="1080ms" dur="300.0ms" attributeName="x" from="220" to="490" fill="freeze" />
+    <animate attributeType="xml" begin="1080ms" dur="300.0ms" attributeName="y" from="50" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="1410ms" dur="300.0ms" attributeName="x" from="490" to="490" fill="freeze" />
+    <animate attributeType="xml" begin="1410ms" dur="300.0ms" attributeName="y" from="69" to="240" fill="freeze" />
+    <animate attributeType="xml" begin="2670ms" dur="300.0ms" attributeName="x" from="490" to="490" fill="freeze" />
+    <animate attributeType="xml" begin="2670ms" dur="300.0ms" attributeName="y" from="221" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="3000ms" dur="300.0ms" attributeName="x" from="475" to="340" fill="freeze" />
+    <animate attributeType="xml" begin="3000ms" dur="300.0ms" attributeName="y" from="50" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="3330ms" dur="300.0ms" attributeName="x" from="340" to="340" fill="freeze" />
+    <animate attributeType="xml" begin="3330ms" dur="300.0ms" attributeName="y" from="66" to="210" fill="freeze" />
+    <animate attributeType="xml" begin="4590ms" dur="300.0ms" attributeName="x" from="340" to="340" fill="freeze" />
+    <animate attributeType="xml" begin="4590ms" dur="300.0ms" attributeName="y" from="194" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="4920ms" dur="300.0ms" attributeName="x" from="325" to="190" fill="freeze" />
+    <animate attributeType="xml" begin="4920ms" dur="300.0ms" attributeName="y" from="50" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="5250ms" dur="300.0ms" attributeName="x" from="190" to="190" fill="freeze" />
+    <animate attributeType="xml" begin="5250ms" dur="300.0ms" attributeName="y" from="69" to="240" fill="freeze" />
+    <animate attributeType="xml" begin="6510ms" dur="300.0ms" attributeName="x" from="190" to="190" fill="freeze" />
+    <animate attributeType="xml" begin="6510ms" dur="300.0ms" attributeName="y" from="221" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="6840ms" dur="300.0ms" attributeName="x" from="220" to="490" fill="freeze" />
+    <animate attributeType="xml" begin="6840ms" dur="300.0ms" attributeName="y" from="50" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="7170ms" dur="300.0ms" attributeName="x" from="490" to="490" fill="freeze" />
+    <animate attributeType="xml" begin="7170ms" dur="300.0ms" attributeName="y" from="63" to="180" fill="freeze" />
+    <animate attributeType="xml" begin="7470ms" dur="240.0ms" attributeName="fill" from="rgb(0,75,79)" to="rgb(0,255,0)" fill="freeze" />
+</rect>
+<rect id="disk2" x="167.0" y="210.0" width="65.0" height="30.0" fill="rgb(6.0,247.0,41.0)" visibility="visible" >
+    <animate attributeType="xml" begin="1710ms" dur="300.0ms" attributeName="x" from="167" to="167" fill="freeze" />
+    <animate attributeType="xml" begin="1710ms" dur="300.0ms" attributeName="y" from="194" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="2040ms" dur="300.0ms" attributeName="x" from="182" to="317" fill="freeze" />
+    <animate attributeType="xml" begin="2040ms" dur="300.0ms" attributeName="y" from="50" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="2370ms" dur="300.0ms" attributeName="x" from="317" to="317" fill="freeze" />
+    <animate attributeType="xml" begin="2370ms" dur="300.0ms" attributeName="y" from="69" to="240" fill="freeze" />
+    <animate attributeType="xml" begin="5550ms" dur="300.0ms" attributeName="x" from="317" to="317" fill="freeze" />
+    <animate attributeType="xml" begin="5550ms" dur="300.0ms" attributeName="y" from="221" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="5880ms" dur="300.0ms" attributeName="x" from="332" to="467" fill="freeze" />
+    <animate attributeType="xml" begin="5880ms" dur="300.0ms" attributeName="y" from="50" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="6210ms" dur="300.0ms" attributeName="x" from="467" to="467" fill="freeze" />
+    <animate attributeType="xml" begin="6210ms" dur="300.0ms" attributeName="y" from="66" to="210" fill="freeze" />
+    <animate attributeType="xml" begin="6510ms" dur="240.0ms" attributeName="fill" from="rgb(5,248,36)" to="rgb(0,255,0)" fill="freeze" />
+</rect>
+<rect id="disk3" x="145.0" y="240.0" width="110.0" height="30.0" fill="rgb(11.0,45.0,175.0)" visibility="visible" >
+    <animate attributeType="xml" begin="3630ms" dur="300.0ms" attributeName="x" from="145" to="145" fill="freeze" />
+    <animate attributeType="xml" begin="3630ms" dur="300.0ms" attributeName="y" from="221" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="3960ms" dur="300.0ms" attributeName="x" from="175" to="445" fill="freeze" />
+    <animate attributeType="xml" begin="3960ms" dur="300.0ms" attributeName="y" from="50" to="50" fill="freeze" />
+    <animate attributeType="xml" begin="4290ms" dur="300.0ms" attributeName="x" from="445" to="445" fill="freeze" />
+    <animate attributeType="xml" begin="4290ms" dur="300.0ms" attributeName="y" from="69" to="240" fill="freeze" />
+    <animate attributeType="xml" begin="4590ms" dur="240.0ms" attributeName="fill" from="rgb(10,71,153)" to="rgb(0,255,0)" fill="freeze" />
+</rect>
+</svg>
