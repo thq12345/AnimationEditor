@@ -1,7 +1,5 @@
 README:
-In assignment 9, we implement all 3 levels (Slider, rotation and layers) and we did this by adding the corresponding JComponents and additional code on the controller (Slider), adding another field in our shape class and adding code in the view classes so it can rotate (Rotation) and creating layers by changing the order of rendering shapes. 
-
-All the related tests are in the ExtraCreditPtTests.java file. 
+We implement all 3 levels (Slider, rotation and layers) and we did this by adding the corresponding JComponents and additional code on the controller (Slider), adding another field in our shape class and adding code in the view classes so it can rotate (Rotation) and creating layers by changing the order of rendering shapes. 
 
 We made changes to Model, view and controller to achieve these. 
 
@@ -10,10 +8,8 @@ We also included many animation files that tests different aspects of the code v
 
 
 
-
-
-***************README FOR ASSIGNMENT 7********************************
-In the assignment 7, we added more functionality to the animation by adding another view called "edit view" that gives the user ability to edit animation, pause, resume, restart, loop and change speed in real-time. Below are detailed specifications about the edit view as well as changes from the previous assignments.
+***************UPDATE FROM ASSIGNMENT 7********************************
+We added more functionality to the animation by adding another view called "edit view" that gives the user ability to edit animation, pause, resume, restart, loop and change speed in real-time. Below are detailed specifications about the edit view as well as changes from the previous assignments.
 
 ************************UPDATE FROM ASSIGNMENT 6*****************************
 1. Added functionality of converting motion-based animation to keyframe-based animation back and forth, allows the user to see the updated keyframe information in real-time via the console.
